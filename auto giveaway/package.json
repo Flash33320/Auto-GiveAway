@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@nodegui/nodegui": "^0.57.3",
+    "authgg-admin-api": "^1.0.3",
+    "colors": "^1.4.0",
+    "discord-info": "^0.0.1",
+    "discord-password-login": "^1.1.0",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js-selfbot": "^12.0.2",
+    "discord.js-selfbot-v13": "^2.9.15",
+    "eris": "^0.17.1",
+    "keyauth": "^1.0.3",
+    "moment": "^2.29.4",
+    "node-emoji": "^1.11.0",
+    "prompt-sync": "^4.2.0",
+    "qs": "^6.11.0",
+    "request": "^2.88.2",
+    "uuid": "^9.0.0",
+    "vm2": "^3.9.13",
+    "webhook-discord": "^3.7.8"
+  }
+}
